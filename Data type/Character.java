@@ -1,0 +1,9 @@
+public class Character {
+    public static void main(String[] args) {
+        char var01 = 'c';
+        String var02 = "hello,World!";
+
+        System.out.println(var01);
+        System.out.println(var02);
+    }     
+}
